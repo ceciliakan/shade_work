@@ -1,1 +1,1 @@
-# OpenGL code
+OpenGL code example
